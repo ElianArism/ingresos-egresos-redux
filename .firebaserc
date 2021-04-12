@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-fdc95": {
+      "hosting": {
+        "redux3": [
+          "ingreso-egreso-app-fdc95"
+        ]
+      }
+    }
+  }
+}
